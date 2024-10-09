@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'Android';
-    src: url('/fontes/idroid.otf') format('opentype');
+    src: url('../fontes/idroid.otf') format('opentype');
     font-weight: normal;
 }
 /* Esta abaixo é a raiz da árvore do nosso documento, tudo oque for colocado aqui vai servir para o documento INTEIRO*/
